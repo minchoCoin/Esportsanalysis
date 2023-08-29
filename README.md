@@ -25,5 +25,24 @@ Repository for esports data science
 4. 4번항목
 
 - part A
+  - part A-1
+  - part A-2
 - part B
 - part C
+
+**strong** and -test- *italic*
+***italic with strong***
+
+```python
+print("hello world!")
+```
+
+```javascript
+console.log("Hello, world!");
+```
+
+<https://www.google.com/>
+
+[구글](https://www.google.com)
+
+[구글](https://www.google.com/, "클릭하면 구글로 이동합니다.")
