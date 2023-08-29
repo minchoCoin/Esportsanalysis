@@ -46,3 +46,29 @@ console.log("Hello, world!");
 [구글](https://www.google.com)
 
 [구글](https://www.google.com/, "클릭하면 구글로 이동합니다.")
+
+
+---
+
+### I am interested in...
+- Embedded programming
+- Frontend/Backend
+- AI
+
+### I am studying...
+-C/C++
+-Java
+-Python
+  - numpy
+  - pandas
+  - matplotlib
+-HTML/CSS/JS
+
+### I will study...
+- React
+- Python AI library such as Keras
+- Spring or Django
+
+[Baekjoon](https://www.acmicpc.net/user/bigteach)
+
+[programmers]()
