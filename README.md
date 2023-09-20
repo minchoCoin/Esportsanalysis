@@ -56,9 +56,9 @@ console.log("Hello, world!");
 - AI
 
 ### I am studying...
--C/C++
--Java
--Python
+- C/C++
+- Java
+- Python
   - numpy
   - pandas
   - matplotlib
